@@ -6,7 +6,7 @@
 -->
  
 ![Typing Gift](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47l5yihg1djqunkrejee57mnohj134a1h0yc7grya8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jao-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png">
 </div>
