@@ -4,9 +4,7 @@
   <img height = "120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcoPiccoliCardoso&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 -->
- <style>
-  img {text-align: center;}
- </style>
+ 
 ![Typing Gift](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47l5yihg1djqunkrejee57mnohj134a1h0yc7grya8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <div style="display: inline_block"><br>
   <img align="center" alt="Jao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
